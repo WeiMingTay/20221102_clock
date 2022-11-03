@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700;800;900&family=Press+Start+2P&family=Silkscreen:wght@400;700&family=Wallpoet&family=Zen+Dots&display=swap');
+
+/* 
+font-family: 'Orbitron', sans-serif;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Silkscreen', cursive;
+font-family: 'Wallpoet', cursive;
+font-family: 'Zen Dots', cursive;
+ */
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1447015237013-0e80b2786ddc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+main {
+    background-color: #fff;
+}
+
+#result1_2_clock {
+    border: 4px solid #fff;
+    border-radius: 20px;
+    background-color: #000;
+    color: #fff;
+    font-size: 2rem;
+    padding: .6rem;
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+#lev1_9 {
+    padding: 1rem;
+    }
+#txt {
+    border: 30px solid #262F36;
+    border-radius: 15px;
+    background-color: #89A880;
+    margin: 1rem;
+    /* font-family: 'Orbitron', sans-serif; */
+    /* font-family: 'Press Start 2P', cursive; */
+    /* font-family: 'Silkscreen', cursive; */
+    font-family: 'Wallpoet', cursive;
+    /* font-family: 'Zen Dots', cursive; */
+    display: inline-block;
+    padding: 1rem;
+    padding-bottom: .5rem;
+    min-width: 250px;
+    text-align: center;
+}
+.zifferGross {
+    font-size: 3.5rem;
+}
+.zifferMittel {
+    margin-left: 2rem;
+}
+.zifferKlein {
+    border-top: 1px solid #262F36;
+}
+
